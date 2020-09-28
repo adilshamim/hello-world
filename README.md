@@ -1,2 +1,2 @@
 # hello-world
-dummy
+Tic-tac-Toe game developed using java awt and event handling
